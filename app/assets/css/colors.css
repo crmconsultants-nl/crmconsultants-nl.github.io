@@ -1,0 +1,6 @@
+html[thema='dark'] {
+  --projecten_bg: rgba(255,255,0,0.1);
+}
+html[thema='light'] {
+  --projecten_bg: rgba(255,255,0,0.1);
+}
